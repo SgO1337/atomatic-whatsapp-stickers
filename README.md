@@ -1,1 +1,1 @@
-# atomatic-whatsapp-stickers
+#automatic-wpp-stickers
